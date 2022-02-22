@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Briefe discovrse vpon tyrants and tyranny</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29446</idno>
+            <idno type="STC">Wing B4584</idno>
+            <idno type="STC">ESTC R4594</idno>
+            <idno type="EEBO-CITATION">12415521</idno>
+            <idno type="OCLC">ocm 12415521</idno>
+            <idno type="VID">61633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E127, no 45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Briefe discovrse vpon tyrants and tyranny</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated by Thomason 23 Nov. 1642.</note>
+                  <note>A covert warning to Charles I, by precedent, to relax his arbitrary control of government.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:61633:1"/>
+            <pb n="1" facs="tcp:61633:1" rendition="simple:additions"/>
+            <head>A Briefe DISCOVRSE VPON TYRANTS AND TYRANNY.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Yrannie may juſtly bee eſteemed the greateſt calamity, be<g ref="char:EOLhyphen"/>cauſe it is in oppoſition to the chiefeſt felicity which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in liberty, and the free diſpoſition of that which God and our own induſtry hath made ours; Nor can it keep company with goodneſſe, ſince it deſtroyes the firſt true principle of juſtice, by which all are injoyned to doe by others as they deſire others ſhould deale by them.</p>
+            <p>Tyrannie is moſt commonly taken for the irregularity of him that governs in chiefe, who only rules according to will; for in ſubordinate inſtruments it is called oppreſſion: And under this title it cauſed the ruine of the firſt world, as it doth now of all corporations where it is ſuffered too much to abound.</p>
+            <p>If it be asked, whether this extravagant or a legall juriſdiction be moſt na<g ref="char:EOLhyphen"/>turall and convenient for a King. It may moſt truly be anſwered, the later: For if it be certaine that the ſtrength of a King lies in the riches and love
+<pb n="2" facs="tcp:61633:2"/>of his people: I am ſure, he they are leaſt afraid of, hath the greateſt ſhare; for who can heartily affect him they doubt.</p>
+            <p>Where laws are obſerved, the wicked onely tremble, but Tyranny is equally formidable both to good and bad, yet it cannot be ſo ſafe in the Army it muſt have to guard it; as a good Prince is between mercy and juſtice.</p>
+            <p>It may appeare by <hi>Lucian,</hi> that a reward was anciently aſſigned to him that ſhould kill a Tyrant, out of the common treaſury; which proves them enemies to the State; And hee that renders himſelfe worthy of this title, can have no hope to ſatisfie his conſcience, nor ſafety to aſſure his fears, being as deep in the hatred of God as he is in the deteſtation of men.</p>
+            <p>When a power is raiſed againſt him, he is loſt with the firſt battell, not be<g ref="char:EOLhyphen"/>ing able to appeare againe in the Field, becauſe his ſtrength only conſiſts in ſuch ſouldiers as are uſed to pay and rapine; (which at this time faile them, the one being exhauſted by his former profuſion, and the later prevented by his enemies care) and not in his ſubiects, who have (in a well governed Common-wealth) the ſtrong engins of private intereſts to move them; Whereas theſe mercenaries look only after preſent profit which doth of ne<g ref="char:EOLhyphen"/>ceſſity conclude with his felicity, knowing they can never want Maſters ſo long as ambition reignes in the world, which makes them (like the ſpirits of Conjurers) ſerve them during the dayes of their better fortune; and thoſe ended, to be as ready as the reſt to bring them to perdition,</p>
+            <p>And being once diſabled to keep the Field, hee remaines a prey to his Ad<g ref="char:EOLhyphen"/>verſary, unleſſe hee prevent it by killing himſelfe. For ſouldiers bred in ſo much liberty will never endure a ſtraight ſiege, but rather buy their ſafety with his head, which they never valued higher than the profit could be made of it; and if the people ſtirre in his defence; they ſhew a madneſſe no leſſe than to be found fighting againſt themſelves, it being unpoſſible to bee in harder condition; ſo that the hope of bettering themſelves takes away all feare of looſing by the change: And if they ſhould interpoſe themſelves, yet they could contribute little help, becauſe ſuch as live under an abſolute conſtraint are not ſo belliquous as natural ſubiects, who have ſomething to looſe, whereas theſe never injoyed any thing but the courteſie of another; and are ſo deb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by continuall injuries and oppreſſions, that they beare any thing with more eaſe and pati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce then Armes which they know not how to uſe, unleſſe upon great advantage, and when they are animated with the ſweet ſound of liberty, for then they are found to have done wonders, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecially upon their Maſters; which proceeds out of feare not valour, as
+<pb n="3" facs="tcp:61633:2"/>appeares by the exorbitant cruelty they uſe to the authors of their ſub<g ref="char:EOLhyphen"/>iection.</p>
+            <p>A Tyrant being aſſailed, he is forced to goe againſt that wholſome rule of policy, which adviſeth a Prince never to fight in his own Territorie, but with advantage both of time and place, for hee muſt meet him at firſt without any reſpit, leaſt his own ſhould have leaſure to ioyne with the adverſe party, which commonly they doe.</p>
+            <p>Wee read great matters of the State and extent of the Perſian Monarchy, yet <hi>Zenophon</hi> with a handfull of men cut his own paſſage through the middeſt of it; and with what eaſe they were after overcome, all know or may read in the Story.</p>
+            <p>And as ſhort-lived moſt of thoſe governments be, the Turk only excep<g ref="char:EOLhyphen"/>ted, who is cordeally oppoſed by none but the Perſian, that holds his eſtate by the ſame tenure: And to this may be added the ſimplicity of the Turkiſh Nation, who place the chiefeſt principle of their Religion in obedience to their King, though he command thouſands of them to make away them<g ref="char:EOLhyphen"/>ſelves at once; ſo it may be ſaid of theſe ſilly people, that they are onely daring in deſtroying themſelves; This Princes ſtrength lying chiefly in his Ianizaries conſiſting of about 40000; who being for the moſt part taken in the warres, or bred up from children paid for tribute, are of ſeverall Na<g ref="char:EOLhyphen"/>tions, and ſo not apt to combine; And though an infinite number of Natives goe into the Field with him, they are ſo ſlightly eſteemed that they ſerve on<g ref="char:EOLhyphen"/>ly to fill up Trenches and Breaches with their carkaſſes.</p>
+            <p>Now were his own people Souldiers by nature, which law and freedome would ſoone make them, he need not be ſo fond of ſtrangers, nor ſo fearefull of his owne.</p>
+            <p>Yet now the Ianizaries being informed of their ſtrength, begin to uſe their Maſter as the pretorian Souldiers did the Tyrants of <hi>Rome,</hi> for they know no inland power can refiſt them, which gives them the boldneſſe to ca<g ref="char:EOLhyphen"/>pitulate with their Prince, and to ſeli his head when they meet with a free Chapman; which makes well for Chriſtendome, for had he not theſe diver<g ref="char:EOLhyphen"/>ſions, he had long ere this decided the warre in <hi>Germany</hi> by taking that from them they are together by the eares for.</p>
+            <p>There is no doubt but God was able to have put ſpirit enough in the chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> to have left <hi>Egypt</hi> without leave; or that being obtained, have turned their faces towards <hi>Pharoh</hi> in defence of their new purchaſed liberty; but he choſe rather to bring them through the Sea, as if it were a leſſe
+<pb n="4" facs="tcp:61633:3"/>miracle for the water to goe back, than for people bred in ſervitude to ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll before an enemy with hope of ſucceſſe; And it is made more a parant after by his own choyce of the ſervants of the Princes of the Provinces, when hee meant to deliver his people; that ſuch are fitteſt for warre who live in leaſt feare and have ſometimes quarrels amongſt themſelves, as theſe in all likelihood had. So as I may ſay under good authority, that ſince Coaches came up and Hoſpitality down, that <hi>England</hi> is ſtronger in horſes but weaker in men; and if law, the ready way to every mans right, ſhould bee quite loſt, as it is in ſome hazzard, wee might quickly grow more baſely ſpirited then wee are in the generality, if it be poſſible, for he that hath not the meanes or is not uſed to defend himſelfe, will never protect an<g ref="char:EOLhyphen"/>other.</p>
+            <p>For ſupplies in a neceſſity, the limited government hath ever beene moſt free, becauſe they know it is for their own preſervation; whereas a bad Prince is then forced rather to give than take for feare his ſubiect, ſhould ioyne with the enemy, who cannot chuſe but be as gooſefoot a better friend, eſpecially if hee obſerves but halfe the conditions he offers, which are ever more tolerable than they are under: And though both be ill, yet there is ſome delight in the change; beſides the ſubiects of Tyrants in the generall are not ſo rich, the uncertainty of keeping, hindering for the moſt part the deſire of gaine: So though he hath the power to command all, yet when it comes together, it doth not riſe to ſo great a ſumme as ſuch as are free borne doe willingly give.</p>
+            <p>It is a ſaying worthy to be followed, that a wiſe man if he cannot keep out a Tyrant, will bee the firſt to bring him in: yet it muſt be taken with ſuch limitations and reſiſtance, as may be iuſtified by honour and probity as well as by policy and wiſdome; for hee that ſhall lend his hand to the raiſing or maintaining ſuch a Monſter, out of no other reaſon then private reſpect cannot bee guilty of leſſe treaſon then the croſſing Gods intentions, who never made the glorious Nations of this world to ſerve only as foot<g ref="char:EOLhyphen"/>balls for Kings to kick up and down according as their wanton and unbridled paſſions move them.</p>
+            <p>Yet if <hi>Cato</hi> had been as wiſe as <hi>Brutus, Rome</hi> might have ſtopt this plague before it had gained all the people; for if to die with a friend be a ſigne of love, it is a farre greater to ſee him revenged, and his iſſue raiſed to their loſt liberty: Thus <hi>Bruins</hi> did, who kept his life ſafe under the habite of folly, till hee found hee might expoſe it with profit to his Countrey, whilſt
+<pb n="5" facs="tcp:61633:3"/>the other flung it away in the midſt of diſpaire, when the State had uſe of living friends not dead carkaſſes; had he met the Monſter and kiſt him, hee had continued his feares, whereas this good mans making away himſelfe left him ſecure.</p>
+            <p>The Bible that is an enemy to indiſcretion, commends rather than blames <hi>David</hi> that was mad in ſhew, but <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ato</hi> was ſo indeed, elſe why would be not have ventured to kill the common enemy with his own hands? which might have been done with more juſtice, and at the worſt with no leſſe loſſe then of his own life; therefore it may be conceived it was not zeale to his Countrey but paſsion made him do it; for if the deſtruction of few governments can be more uninſt than their beginning, why ſhould a man deſperately expoſe his life to maintain any title that hath loſt the old force that was wont to ſupport it? This being a concluſion in Divinity, that the ſtrongeſt power is to be obeyd.</p>
+            <p>For all this I doe not think it wiſdome to ſtand by and look on, for he that hath faithfully maintained his faction, though he be overcome is likelier to finde friendſhip and forgiveneſſe than hee that hath been a Neuter, in which ſtate hee hath no power to ſhew his valour or fidelity, which ever renders the owner capable of love and piety.</p>
+            <p>Neither can I think him ſo highly to bee commended, that without con<g ref="char:EOLhyphen"/>ſideration of poſſibility of ſucceſſe, is reſolved to ſtand to a falling pillar, and to periſh with it, no more than he that upon as little aſſurance mingles with the common rabble, which are the rocks on whom great pretenders venture their ambition; and when the battell is wonne and loſt, have no other reward for the moſt part, than the bitter repentance of their folly which hath rather impaired than bettered their condition. And if Reaſon in any caſe can warrant the breaking of this rule, it muſt be for the defence of Liberty; for the difference betweene one abſolute Prince and another, in reſpect the beſt are mortall and ſubiect to ill Counſell, cannot be worth ſo much blood as a crabbed Title requires to decide it; therefore they that have not the skill to live without a Maſter, muſt welcome him that comes in with leaſt trouble, who being ſecure may be the eaſier expeld upon the peoples diſlike.</p>
+            <p>I have heard reported for the honour of the Proteſtant Religion, that they never attempted any thing againſt their Prince, whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h may be ſaid at more eaſe than proved, as appeares both by the French and Dutch Hiſto<g ref="char:EOLhyphen"/>ries: I am ſo farre from taking this as a diſparagement, that I think it may well be juſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied where ſtrength and number affords a probability of ſucceſſe,
+<pb n="6" facs="tcp:61633:4"/>it being ridiculous to maintaine, a man may not doe as much to ſave his conſcience, as all Law allowes him for the defence of his purſe and eſtate: and thoſe that rely ſo much upon Saint <hi>Paul</hi> in the contrary opinion, doe not remember his Maſter, who ſaith there are times wherein a ſword is more neceſſary than a coat, which ought to be ſold to purchaſe it; and he that carries not the ſword in vaine, himſelfe would not burthen his followers with an uſeleſſe weapon.</p>
+            <p>During the Reigne of the Heathen Emperours it was a crafie time in the Church, and therefore the Profeſſors were taught patience, becauſe the body was not ſtrong enough to purge it ſelfe.</p>
+            <p>He that ſtands ſtill whilſt a weaker than he kills him, is as guilty of his owne death as he that hangs himſelfe. Religion may be above Reaſon in matters of Faith, but not againſt it in manners, and the meanes of our pre<g ref="char:EOLhyphen"/>ſervation, which are wiſedome and ſtrength joyned with prayers for a good ſucceſſe.</p>
+            <p>And if this be denied, it will not only diſcourage us that are Proteſtants already, but keep out others that would come in; for who that is to chuſe will take that Religion that ſhall make it damnable to defend it ſelfe, and ſo deſtroy one of the ſtrongeſt principles of nature.</p>
+            <p>Saint <hi>Paul</hi> ſeeing the company halfe Phariſees, halfe Saduces, takes this opportunity and proclaimes himſelfe of one of the factions, and by this meanes reſcued his life: Nay Chriſt himſelfe, when the Iewes ſought to entangle him in his ſpeech, propoſeth the queſtion of Iohn the Baptiſt to ſet them in oppoſition with the people, the love of whom was all the earthly ſtrength he had, as appeares by the Goſpel.</p>
+            <p>Did not <hi>Abraham</hi> teare his brother <hi>Lot</hi> out of the hands of the King that detained him, by the perſwaſion of love and naturall affection. I doe not beleeve that all thoſe took the Proteſtants part either in France or the Low<g ref="char:EOLhyphen"/>countreys, did it out of zeale to Religion, more than ſome that oppoſed them: But in ſuch caſes diſcretion makes uſe of all lawfull advantages; and if Tyranny be overthrowne, the meanes can hardly be capable of reproofe, and no Tyranny is ſo great as that which is exerciſed over mens conſciences. In the primitive time the Chriſtians ſerved in great troops under the Hea<g ref="char:EOLhyphen"/>then Emperours, but whether they had altogether beene able to eſtabliſh their owne conditions, all reaſon makes me doubt: Beſides, true Religion was to be planted, and we ſee patience gaines at the beginning more Proſe<g ref="char:EOLhyphen"/>lytes, than either force or proſperity. But now our work is only to defend
+<pb n="7" facs="tcp:61633:4"/>it: All muſt confeſſe, that the Proteſtants have not yet had the leiſure or will to act ſuch bloody and dark treaſons as the Papiſts, what they have done hath beene hitherto bravely with their ſwords in their hands, the natu<g ref="char:EOLhyphen"/>rall and generous way of deciding a controverſie.</p>
+            <p>But if againſt this the Duke of <hi>Guiſe</hi> be obiected, I anſwer, hee was none of their Prince, next, that he was condemned by the greateſt part of the Kingdom as a man unworthy to live, being thought the cauſe of moſt of the ill France did then labour with, this being apparant to every judge<g ref="char:EOLhyphen"/>ment; therefore what was done to him was only the execution of a juſt ſen<g ref="char:EOLhyphen"/>tence which ſo great a Iury had pronounced againſt him; yet it cannot be proved that they did it, though it matters not much.</p>
+            <p>Chriſt tells <hi>Pilate,</hi> if his Kingdome had beene of this world, that is ſuf<g ref="char:EOLhyphen"/>ficiently beleeved, his ſubiects would have fought for him, by which hee ſeemes to me ſilently to upbraid the cowardlineſſe of his followers.</p>
+            <p>I know the Romans by Tyrants, meant ill Kings, ſo doe not I, who only comprehend under this title ſuch as encroach upon the juſt liberties of their ſubiects; for a true King is he that watcheth over his Countrey for their ge<g ref="char:EOLhyphen"/>nerall good, acknowledging the particular propriety every one hath in what he enioyes ought not to be violated but where law allowes, and ne<g ref="char:EOLhyphen"/>ceſſity compells.</p>
+            <p>If it be pleaſure a King ſeeks, Law barres him not, but preſerves him more ſafe in a wilde Forreſt, than the Grand Signior can be in his Seragleo, or when he goes his progreſſe with an hundred thouſand men: or if he de<g ref="char:EOLhyphen"/>lights in things leſſe honeſt, Law only informes him by puniſhing of others for the ſame faults, that he which is ſet out of the reach of her power ought to be a Law to himſelfe.</p>
+            <p>To conclude, I ever beleeved that the maine ſcope of thoſe rules for pa<g ref="char:EOLhyphen"/>tience and ſufferance, preſcribed in holy writ, extend onely to reſtraine the unbridled paſſions of over furious men, and to perſwade temperance in the tongue and hands, when there is no ſufficient power to make reſiſtance; neither doe I like this opinion the worſe, becauſe it is maintained by <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> and the reſt of the Ieſuites, that having moſt probability of truth, that is conſonant to all parties. For it is no leſſe than madneſſe to think that God that hath allotted a puniſhment for all faults, ſhould protect this which is the greateſt, becauſe it deſtroyes the principles of the ſecond table, and hinders the performance of thoſe of the firſt; there being no ſtronger ene<g ref="char:EOLhyphen"/>my to Religion than unſetled feare: For how can the Word have a free
+<pb n="8" facs="tcp:61633:5"/>paſſage when the Churchmen have nothing to protect them, when they tell the King of his implety, and the Nobles of their tranſgreſſion. So then Tyranny cannot agree with the joyfull tidings of the Goſpel, which deſires the unity of the ſpirit in the bond of peace. Now where Law, Religion, and the Love of the People are, it makes a threefold cord, not eaſily broken, which drawes on plenty, peace, and proſperity. And if ſuch a Prince comes to be invaded, he is commonly the laſt that ſuffers, when a Tyrant is ever the firſt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61633:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
